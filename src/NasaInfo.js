@@ -6,6 +6,7 @@ p{
     width:70%;
     margin-left:20%;
     font-weight:bold;
+    font-size: 1.7rem;
     border: solid gold; 
     background-color: green;
 }

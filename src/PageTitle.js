@@ -9,7 +9,7 @@ h1{
     background-color: purple;
 }
 h2{
-    width:90%;
+    width:100%;
     font-weight:bold;
     border: dotted blue;
     background-color: brown;
